@@ -1,4 +1,5 @@
-const SHOP_DATA = [{
+const SHOP_DATA = [
+  {
     id: 1,
     title: 'Hats',
     routeName: 'hats',
@@ -67,7 +68,7 @@ const SHOP_DATA = [{
       {
         id: 10,
         name: 'Adidas NMD',
-        imageUrl: 'https://i.ibb.co/0s3pdnc/adidas-nmd.png', 
+        imageUrl: 'https://i.ibb.co/0s3pdnc/adidas-nmd.png',
         price: 220
       },
       {
@@ -245,4 +246,4 @@ const SHOP_DATA = [{
   }
 ];
 
-export default SHOP_DATA
+export default SHOP_DATA;
